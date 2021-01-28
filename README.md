@@ -7,3 +7,8 @@
 - Visual Studio 2019
 - SQL Server
 - Servidor local para rodar o client-side
+
+- Há um script SQL Server no diretorio DataBaseScript
+- Rode-o no seu SQL Server
+
+- Troque a stringConnection da aplicação para a stringConnection do seu ambiente
